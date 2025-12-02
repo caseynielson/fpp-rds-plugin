@@ -13,7 +13,7 @@
 
 $menuEntries = Array(
 	Array(
-		'text' => 'Template - Status',
+		'text' => 'fpp-rds-plugin - Status',
 		'type' => 'status',
 		'page' => 'status.php',
 		'wrap' => 1
@@ -39,7 +39,7 @@ $menuEntries = Array(
 	Array(
 		'text' => 'Template - Home',
 		'type' => 'help',
-		'page' => 'https://github.com/FalconChristmas/fpp-plugin-Template',
+		'page' => 'https://github.com/caseynielson/fpp-rds-plugin',
 		'wrap' => 1
 	),
 	Array(

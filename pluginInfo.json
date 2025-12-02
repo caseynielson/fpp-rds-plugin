@@ -1,11 +1,11 @@
 {
-	"repoName": "fpp-plugin-Template",
-	"name": "Template Plugin for FPP Plugin developers",
-	"author": "John Doe (jdoe)",
-	"description": "This template plugin is designed to make it easier for plugin authors to create new FPP Plugins.  You can manually clone the git repository or install the Template Plugin and then go to the plugin's config page and use the form to copy the template into a new plugin directory.",
-	"homeURL": "https://github.com/FalconChristmas/fpp-plugin-Template",
-	"srcURL": "https://github.com/FalconChristmas/fpp-plugin-Template.git",
-	"bugURL": "https://github.com/FalconChristmas/fpp-plugin-Template/issues",
+	"repoName": "fpp-rds-plugin",
+	"name": "RDS Plugin for fpp",
+	"author": "Casey Nielson",
+	"description": "This is my first attempt at creating a plugin, this plugin will need to execute commands that echo to the serial port where the RDS encoder is listening",
+	"homeURL": "https://github.com/caseynielson/fpp-rds-plugin",
+	"srcURL": "https://github.com/caseynielson/fpp-rds-plugin.git",
+	"bugURL": "https://github.com/caseynielson/fpp-rds-plugin/issues",
 	"allowUpdates": 1,
 	"versions": [
 		{
