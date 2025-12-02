@@ -3,7 +3,7 @@
 	"name": "RDS Plugin for fpp",
 	"author": "Casey Nielson",
 	"description": "This is my first attempt at creating a plugin, this plugin will need to execute commands that echo to the serial port where the RDS encoder is listening",
-	"homeURL": "https://github.com/caseynielson/fpp-rds-plugin",
+	"homeURL": "https://github.com/FalconChristmas/fpp-plugin-Template",
 	"srcURL": "https://github.com/caseynielson/fpp-rds-plugin",
 	"bugURL": "https://github.com/caseynielson/fpp-rds-plugin/issues",
 	"allowUpdates": 1,
