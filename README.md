@@ -1,2 +1,3 @@
-# fpp-rds-plugin
-rds plugin for fpp
+# fpp-plugin-Template
+Template plugin for FPP Plugin developers
+
